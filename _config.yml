@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: f0c72d7685dc2ed870a8
+  clientSecret: 5a2fa760defd7e1e820a811c406c5a9ef40ab995
   repo: azazaz.github.io
   owner: Annie983284450-1
 
